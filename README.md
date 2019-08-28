@@ -18,5 +18,5 @@ The PDF file contains an overview of the layout of the fonts.
 # Used Software
 The header files were produced with the python scripts in my git repository "TTF2BMH" and use of bmfont. 
 
-https://github.com/jdmorise/TTF2BMH
+https://github.com/jdmorise/TTF2BMH    
 https://www.angelcode.com/products/bmfont/
