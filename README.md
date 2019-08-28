@@ -2,6 +2,7 @@
 This repository contains a library of fonts in bitmap header format for use in AVR or other microcontrollers together with simple OLED or LCD Displays, like the SSD1306. 
 
 Different header files are available for character size of 24, 32, 40, 48, 56, 64 pixels. 
+The include files are stored in the bmh_fonts folder, the original ttf font files are found in the ttf_fonts folder. The license of each font is stored with each TTF file. 
 
 The headers currently only support digits and a colon for design of simple number based displays (like a clock or temperature or similar). 
 
