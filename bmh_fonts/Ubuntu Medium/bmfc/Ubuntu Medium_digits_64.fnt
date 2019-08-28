@@ -1,0 +1,15 @@
+info face="Ubuntu Medium" size=84 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,0 outline=0
+common lineHeight=84 base=68 scaleW=512 scaleH=128 pages=1 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
+page id=0 file="Ubuntu Medium_digits_64_0.tga"
+chars count=11
+char id=48   x=0     y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=49   x=41    y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=50   x=82    y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=51   x=123   y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=52   x=164   y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=53   x=205   y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=54   x=246   y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=55   x=287   y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=56   x=328   y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=57   x=369   y=0     width=39    height=84    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15
+char id=58   x=410   y=0     width=18    height=84    xoffset=0     yoffset=0     xadvance=18    page=0  chnl=15

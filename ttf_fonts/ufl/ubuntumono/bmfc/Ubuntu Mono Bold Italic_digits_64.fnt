@@ -1,0 +1,16 @@
+info face="Ubuntu Mono Bold Italic" size=84 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,0 outline=0
+common lineHeight=84 base=70 scaleW=512 scaleH=128 pages=2 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
+page id=0 file="Ubuntu Mono Bold Italic_digits_64_0.tga"
+page id=1 file="Ubuntu Mono Bold Italic_digits_64_1.tga"
+chars count=11
+char id=48   x=151   y=0     width=46    height=84    xoffset=0     yoffset=0     xadvance=46    page=0  chnl=15
+char id=49   x=436   y=0     width=42    height=84    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=50   x=343   y=0     width=45    height=84    xoffset=0     yoffset=0     xadvance=45    page=0  chnl=15
+char id=51   x=390   y=0     width=44    height=84    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+char id=52   x=199   y=0     width=46    height=84    xoffset=0     yoffset=0     xadvance=46    page=0  chnl=15
+char id=53   x=53    y=0     width=47    height=84    xoffset=0     yoffset=0     xadvance=47    page=0  chnl=15
+char id=54   x=102   y=0     width=47    height=84    xoffset=0     yoffset=0     xadvance=47    page=0  chnl=15
+char id=55   x=0     y=0     width=51    height=84    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=56   x=247   y=0     width=46    height=84    xoffset=0     yoffset=0     xadvance=46    page=0  chnl=15
+char id=57   x=295   y=0     width=46    height=84    xoffset=0     yoffset=0     xadvance=46    page=0  chnl=15
+char id=58   x=0     y=0     width=42    height=84    xoffset=0     yoffset=0     xadvance=42    page=1  chnl=15

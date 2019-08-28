@@ -1,0 +1,16 @@
+info face="Bitstream Vera Sans Bold" size=84 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,0 outline=0
+common lineHeight=84 base=67 scaleW=512 scaleH=128 pages=2 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
+page id=0 file="Bitstream Vera Sans Bold_digits_64_0.tga"
+page id=1 file="Bitstream Vera Sans Bold_digits_64_1.tga"
+chars count=11
+char id=48   x=0     y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=49   x=52    y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=50   x=104   y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=51   x=156   y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=52   x=208   y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=53   x=260   y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=54   x=312   y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=55   x=364   y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=56   x=416   y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=57   x=0     y=0     width=50    height=84    xoffset=0     yoffset=0     xadvance=50    page=1  chnl=15
+char id=58   x=468   y=0     width=29    height=84    xoffset=0     yoffset=0     xadvance=29    page=0  chnl=15
