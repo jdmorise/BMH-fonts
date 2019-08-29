@@ -21,3 +21,9 @@ The header files were produced with the python scripts in my git repository "TTF
 
 https://github.com/jdmorise/TTF2BMH    
 https://www.angelcode.com/products/bmfont/
+
+# Additional Fonts
+Upload of any free (in terms of license) font can be requested, just write a short note here and I will upload as fast as possible.
+
+# Todo
+I will work on getting more characters into the font files, when applicable. 
