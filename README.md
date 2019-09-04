@@ -1,4 +1,4 @@
-# Bitmap_Header-Fonts
+# Big Monochrome Bitmap Header Fonts
 This repository contains a library of fonts in bitmap header format for use in AVR or other microcontrollers together with monochrome OLED or LCD Displays, like the SSD1306. 
 
 Different header files are available for character size of 24, 32, 40, 48, 56, 64 pixels. 
